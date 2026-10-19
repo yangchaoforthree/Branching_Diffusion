@@ -1,0 +1,7 @@
+dataset: three_peak_ipp_40T_2000seqs.npy
+max_epochs: 100
+batch_size: 32
+sinkhorn_iterations: 100
+diffusion_steps: 5
+learning_rate: 0.001
+optimizer: Adam
